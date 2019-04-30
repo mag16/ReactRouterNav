@@ -1,6 +1,6 @@
 [build]
-base = "ReactRouterNav/"
-publish = "ReactRouterNav/build/"
+base = "react-router-mini/"
+publish = "react-router-mini/build/"
 command = "yarn build"
 
 [[redirects]]
